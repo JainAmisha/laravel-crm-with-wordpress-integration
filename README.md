@@ -54,4 +54,11 @@ Run the following commands in the Laravel project folder
 - composer install
 - php artisan migrate
 
+#### Screenshots
+
+![1](https://user-images.githubusercontent.com/36112929/173430688-ad64b429-d0c8-4fb3-a1d8-2ffc3d171cc6.png)
+
+![2](https://user-images.githubusercontent.com/36112929/173430704-d0db9755-f304-45d8-b008-3d689bd6c733.png)
+
+![3](https://user-images.githubusercontent.com/36112929/173430713-f3feb253-238f-4112-aaa8-9e6b8a7c7edc.png)
 
