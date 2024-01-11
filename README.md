@@ -6,6 +6,7 @@ customer data and build customer profiles that the client can browse and
 manage. Customer profiles will exist inside of the Laravel dashboard
 adjoined by matching customer profiles on a WordPress website.
 
+This Laravel Application works along with the WordPress Plugin which you can download from [Here](https://github.com/JainAmisha/wp-plugin-to-import-subscribers-from-laravel-dashboard).
 
 # Installation Steps
 
@@ -33,7 +34,7 @@ WP_USERNAME (add your WordPress site admin username)
 WP_PASSWORD (add password of the above user)
 ```
 
-- Modify Encryption Details / Keep the same values in WordPress plugin (plugin link) settings ->
+- Modify Encryption Details / Keep the same values in WordPress [plugin](https://github.com/JainAmisha/wp-plugin-to-import-subscribers-from-laravel-dashboard) settings ->
 
 ```bash
 WP_ENCRYPTION_CIPHER = AES-128-CTR
